@@ -1,5 +1,5 @@
 # Pull base image.
-FROM dockerfile/ubuntu
+FROM ubuntu:16.04
 MAINTAINER "RAJ KUMAR DUBEY (rajkumar.dubey@heavywater.solutions)
 
 # Install Java.
